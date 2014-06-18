@@ -1,0 +1,4 @@
+externalResource
+================
+
+External Resource
